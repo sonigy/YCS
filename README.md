@@ -1,10 +1,10 @@
-![YCS - logo](images/logo-ycs-128.png)
+[![YCS - logo](images/logo-ycs-128.png)](https://chrome.google.com/webstore/detail/pmfhcilikeembgbiadjiojgfgcfbcoaa)
 
 # YCS - YouTube Comment Search
 
 Search for comments and authors in YouTube videos.
 
-<img src="images/ycs-features.png" alt="YCS - features" width="750"/>
+[<img src="images/ycs-features.png" alt="YCS - features" width="750"/>](https://chrome.google.com/webstore/detail/pmfhcilikeembgbiadjiojgfgcfbcoaa)
 
 ## Features
 * Quick search
@@ -20,7 +20,7 @@ Search for comments and authors in YouTube videos.
 Chrome: minimum version 55
 
 ## Install
-Chrome web store: [YCS](https://chrome.google.com/webstore/detail/ycs/pmfhcilikeembgbiadjiojgfgcfbcoaa)
+Chrome web store: [YCS](https://chrome.google.com/webstore/detail/pmfhcilikeembgbiadjiojgfgcfbcoaa)
 
 ## Privacy
 [Privacy Policy](agreements/Privacy-Policy.txt)
