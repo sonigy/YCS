@@ -4,7 +4,7 @@
 
 Search for comments and authors in YouTube videos.
 
-[<img src="images/ycs-features.png" alt="YCS - features" width="750"/>](https://chrome.google.com/webstore/detail/pmfhcilikeembgbiadjiojgfgcfbcoaa)
+[<img src="images/YCS%20-%201280%20x%20640.jpg" alt="YouTube Comment Search" width="1280"/>](https://chrome.google.com/webstore/detail/pmfhcilikeembgbiadjiojgfgcfbcoaa)
 
 ## Features
 * Quick search
