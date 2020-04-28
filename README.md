@@ -20,7 +20,8 @@ Search for comments and authors in YouTube videos.
 Chrome: minimum version 55
 
 ## Install
-Chrome web store: [YCS](https://chrome.google.com/webstore/detail/pmfhcilikeembgbiadjiojgfgcfbcoaa)
+[![Chrome Web Store](images/ChromeWebStore_Badge_v2_206x58.png)](https://chrome.google.com/webstore/detail/pmfhcilikeembgbiadjiojgfgcfbcoaa)\
+Install: [YCS - YouTube Comment Search](https://chrome.google.com/webstore/detail/pmfhcilikeembgbiadjiojgfgcfbcoaa)
 
 ## Privacy
 [Privacy Policy](agreements/Privacy-Policy.txt)
