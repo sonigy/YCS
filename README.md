@@ -23,6 +23,9 @@ Chrome: minimum version 55
 [![Chrome Web Store](images/ChromeWebStore_Badge_v2_206x58.png)](https://chrome.google.com/webstore/detail/pmfhcilikeembgbiadjiojgfgcfbcoaa)\
 Install: [YCS - YouTube Comment Search](https://chrome.google.com/webstore/detail/pmfhcilikeembgbiadjiojgfgcfbcoaa)
 
+## Permissions
+youtube.com
+
 ## Privacy
 [Privacy Policy](agreements/Privacy-Policy.txt)
 
