@@ -2,19 +2,21 @@
 
 # YCS - YouTube Comment Search
 
-Search for comments and authors in YouTube videos.
-
 [<img src="images/YCS%20-%201280%20x%20640.jpg" alt="YouTube Comment Search" width="1280"/>](https://chrome.google.com/webstore/detail/pmfhcilikeembgbiadjiojgfgcfbcoaa)
 
+Search comments by content and author, which are available to the user
 ## Features
-* Quick search
-* Search by content and author
+* Quick search by content and author
 * Flexible (fuzzy) search
+* Works in incognito mode
+* Doesn't require a login to a YouTube
 * Small size, low use CPU and memory
 
 ## Instructions
-1) Click Load comments.
-2) Write the search string, press Enter or Search.
+
+1) Open the video on the YouTube page
+2) Find the YCS extension under the video and click the button "Load comments" and wait for loading
+3) Write the search query, press Enter or click the button Search
 
 ## Requirements specification:
 Chrome: minimum version 55
