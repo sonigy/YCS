@@ -6,13 +6,13 @@
 
 ### The YCS (YouTube Comment Search) is a chrome extension. <br>Search comments on YouTube, by contents and authors, which available for a user.
 ## Features
-* ✅ Quick search by content and author
-* ✅ Flexible (fuzzy) search
-* ✅ Multilingual search
-* ✅ Search by Emoji
-* ✅ Works in incognito mode
-* ✅ Doesn't require sign in to YouTube
-* ✅ Small size, low use CPU and memory
+✅ Quick search by content and author <br>
+✅ Flexible (fuzzy) search <br>
+✅ Multilingual search <br>
+✅ Search by Emoji <br>
+✅ Works in incognito mode <br>
+✅ Doesn't require sign in to YouTube <br>
+✅ Small size, low use CPU and memory
 
 ## Instructions
 
