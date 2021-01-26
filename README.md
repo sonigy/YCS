@@ -4,7 +4,7 @@
 
 [<img src="images/YCS%20-%201280%20x%20640.jpg" alt="YouTube Comment Search" width="1280"/>](https://chrome.google.com/webstore/detail/pmfhcilikeembgbiadjiojgfgcfbcoaa)
 
-### The YCS (YouTube Comment Search) is a chrome extension. <br>Search comments on YouTube, by contents and authors, which available for a user.
+### The YCS (YouTube Comment Search) is a chrome extension. <br>Search **comments**, **chat replay**, **video transcript** on **YouTube** by **contents** and **authors**, which available for a user.
 ## Features
 ✅ Quick search by content and author <br>
 ✅ Flexible (fuzzy) search <br>
@@ -17,7 +17,7 @@
 ## Instructions
 
 1) Open video on YouTube
-2) Find the YCS extension under the video and click the button "Load comments" and wait for loading
+2) Find the YCS extension under the video and click the button "Load all" or choose to load the categories you want and wait for loading
 3) Write the search query, press Enter or click the button Search
 
 ## Requirements specification:
