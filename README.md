@@ -4,7 +4,7 @@
 
 [<img src="images/YCS%20-%201280%20x%20640.jpg" alt="YouTube Comment Search" width="1280"/>](https://chrome.google.com/webstore/detail/pmfhcilikeembgbiadjiojgfgcfbcoaa)
 
-### The YCS (YouTube Comment Search) is a chrome extension. <br>Search **comments**, **chat replay**, **video transcript** on **YouTube** by **contents** and **authors**, which available for a user.
+### The YCS (YouTube Comment Search) is a chrome extension. <br>Search **comments**, **chat replay**, **video transcript** for the current video on **YouTube** by **contents** and **authors**, which available for a user.
 ## Features
 ✅ Quick search by content and author <br>
 ✅ Flexible (fuzzy) search <br>
