@@ -21,6 +21,8 @@
 2) Find the YCS extension under the current video and click the button "Load all" or choose to load the categories
 3) Write the search query, press Enter or click the button Search
 
+For search timeline, write `~ycs:` in the input field and press **enter** or click the button **search**.
+
 ## Requirements specification:
 Chrome: minimum version 55
 
