@@ -24,25 +24,25 @@
 For search timeline, write `~ycs:` in the input field and press **enter** or click the button **search**.
 
 ## FAQ
-1) How to like, reply to a comment?<br>
+1) **How to like, reply to a comment?**<br>
     In the search results, click on the date (like, "2 months ago") of the comment. And will open a new window with this comment below the video.
 
-2) How do I find all timestamped comments and replies on a video?<br>
+2) **How do I find all timestamped comments and replies on a video?**<br>
     Search for the command `~ycs:`.
 
-3) How can I find addressed to user's comments, replies?<br>
+3) **How can I find addressed to user's comments, replies?**<br>
     Try to write search query `@`.
 
-4) How can I view the contents of the video transcript at a specific minute?<br>
-    You can write a search query for Trp. Video, in the `mm: ss` format. For example, if you write:<br>
+4) **How can I view the contents of the video transcript at a specific minute?**<br>
+    You can write a search query for Trp. Video, in the `mm:ss` format. For example, if you write:<br>
     `:` - the entire text of the video transcript.<br>
     `15:` - all the text in the 15th minute.<br>
 And etc.
 
-5) How can I view the comment for a found reply?<br>
+5) **How can I view the comment for a found reply?**<br>
     Click on the **▼** button.
 
-6) How can I see the all replies to the found comment?<br>
+6) **How can I see the all replies to the found comment?**<br>
     In the header of the found comment, you can find the reply icon and the count, to see the replies click on the **+** button.
 
 ## Requirements specification:
