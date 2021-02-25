@@ -28,14 +28,14 @@ For search timeline, write `~ycs:` in the input field and press **enter** or cli
     In the search results, click on the date (like, "2 months ago") of the comment. And will open a new window with this comment below the video.
 
 2) **How do I find all timestamped comments and replies on a video?**<br>
-    Search for the command `~ycs:`.
+    Write `~ycs:` in the input field.
 
 3) **How can I find addressed to user's comments, replies?**<br>
-    Try to write search query `@`.
+    Write `@` in the input field.
 
 4) **How can I view the contents of the video transcript at a specific minute?**<br>
-    You can write a search query for Trp. Video, in the `mm:ss` format. For example, if you write:<br>
-    `:` - the entire text of the video transcript.<br>
+    You can write a search query for Trp. Video, in the `mm:ss` format. For example:<br>
+    `:` - all the text of the video transcript.<br>
     `15:` - all the text in the 15th minute.<br>
 And etc.
 
