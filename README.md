@@ -25,7 +25,7 @@ For search timeline, write `~ycs:` in the input field and press **enter** or cli
 
 ## FAQ
 1) **How to like, reply to a comment?**<br>
-    In the search results, click on the date (like, "2 months ago") of the comment. And will open a new window with this comment below the video.
+    In the search results, click on the date (like, "2 months ago") of the comment and will open a new window with an active comment or reply under the video, where you can do any action.
 
 2) **How do I find all timestamped comments and replies on a video?**<br>
     Write `~ycs:` in the input field.
