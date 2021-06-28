@@ -45,6 +45,12 @@ And etc.
 6) **How can I see the all replies to the found comment?**<br>
     In the header of the found comment, you can find the reply icon and the count, to see the replies click on the **+** button.
 
+## Attention! If the YCS extension has stopped working, loading comments does not work.
+
+1) First of all, disable all plugins except YCS. Check the YCS extension works. If it works, then the reason for the not working YCS extension is in one of the disabled extensions.
+
+2) If that doesn't help, install and check the YCS extension in other browsers: Opera, Microsoft Edge. In Firefox, can also check. [How to install](https://github.com/Eugene-Gubar/YCS/discussions/5#discussioncomment-666335) a YCS extension in Firefox.
+
 ## Requirements specification:
 Chrome: minimum version 55
 
