@@ -54,7 +54,7 @@ And etc.
 
 
 ## Requirements specification:
-Chrome: minimum version 55
+Chrome: minimum version 88
 
 ## Install
 [![Chrome Web Store](images/ChromeWebStore_Badge_v2_206x58.png)](https://chrome.google.com/webstore/detail/pmfhcilikeembgbiadjiojgfgcfbcoaa)\
