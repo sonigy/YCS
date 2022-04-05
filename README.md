@@ -67,7 +67,7 @@ youtube.com
 [Privacy Policy](agreements/Privacy-Policy.txt)
 
 ## Author
-Was created by [Eugene Gubar](https://github.com/Eugene-Gubar)
+Was created by [Eugene Gubar](https://github.com/sonigy)
 
 ## License
 This project is licensed under the MIT [License](LICENSE)
