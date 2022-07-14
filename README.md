@@ -27,6 +27,27 @@
 2) Find the YCS extension under the current video and click the button "Load all" or choose to load the categories
 3) Write the search query, press Enter or click the button Search
 
+## Extended Search
+
+[<img src="images/ycs-ext-search.png" alt="YCS. Extended search"/>](https://chrome.google.com/webstore/detail/pmfhcilikeembgbiadjiojgfgcfbcoaa)
+
+This form of advanced searching allows you to fine-tune results.
+
+White space acts as an **AND** operator, while a single pipe (`|`) character acts as an **OR** operator. To escape white space, use double quote ex. `="scheme language"` for exact match.
+
+| Token       | Match type                 | Description                            |
+| ----------- | -------------------------- | -------------------------------------- |
+| `jscript`   | fuzzy-match                | Items that fuzzy match `jscript`       |
+| `=scheme`   | exact-match                | Items that are `scheme`                |
+| `'python`   | include-match              | Items that include `python`            |
+| `!ruby`     | inverse-exact-match        | Items that do not include `ruby`       |
+| `^java`     | prefix-exact-match         | Items that start with `java`           |
+| `!^earlang` | inverse-prefix-exact-match | Items that do not start with `earlang` |
+| `.js$`      | suffix-exact-match         | Items that end with `.js`              |
+| `!.go$`     | inverse-suffix-exact-match | Items that do not end with `.go`       |
+
+White space acts as an **AND** operator, while a single pipe (`|`) character acts as an **OR** operator.
+
 ## FAQ
 1) **How to like, reply to a comment?**<br>
     In the search results, click on the date (like, "2 months ago") of the comment and will open a new window with an active comment or reply under the video, where you can do any action.
@@ -48,9 +69,6 @@ And etc.
 
 6) **How can I see the all replies to the found comment?**<br>
     In the header of the found comment, you can find the reply icon and the count, to see the replies click on the **+** button.
-
-7) **Why is the number of loaded comments (YCS app) less or more than is shown on YouTube?**<br>
-     The YCS - YouTube Comment Search app displays a more accurate number of loaded comments, replies, chat comments. Since YouTube can by has real-time processes over comments, for example: moderation by the author of the video, users adding new comments, etc.
 
 
 ## Requirements specification:
