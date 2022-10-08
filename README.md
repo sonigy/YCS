@@ -70,6 +70,9 @@ And etc.
 6) **How can I see the all replies to the found comment?**<br>
     In the header of the found comment, you can find the reply icon and the count, to see the replies click on the **+** button.
 
+7) **How to use search in YouTube shorts?**<br>
+    Open a YouTube video short. Click badge **YCS** (right of the address bar) and click on the button **Open YT short**.
+
 
 ## Requirements specification:
 Chrome: minimum version 88
